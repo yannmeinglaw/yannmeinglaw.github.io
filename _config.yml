@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About Me"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Yann-Meing Law"
 description              : &description "personal description"
