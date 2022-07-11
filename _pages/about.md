@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Yann-Meing Law's homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
