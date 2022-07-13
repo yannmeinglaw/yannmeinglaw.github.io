@@ -14,5 +14,13 @@ author_profile: true
 **Michigan State University**
 
 **Polytechnique Montréal**
+  2013-2020: 
+    Instructor 
+    *Scientific computing for engineers - MTH2210A/C* (21 times)
+    *Linear algebra for engineers - MTH1007* (1 time)        
+  2012-2019: 
+     Teaching assistant 
+     *Scientific computing for engineers - MTH2210A/C* (21 times)
+     *Linear algebra for engineers - MTH1007* (1 time)
 
 
