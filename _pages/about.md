@@ -10,10 +10,10 @@ redirect_from:
 
 I am currently a [fixed-term assistant professor](https://cmse.msu.edu/directory/faculty/yann-meing-law/) in the Department of Computational Mathematics, Science and Engineering (CMSE) at Michigan State University.  
 
-<!-- **Education**  -->
-<!--   * Ph.D. Engineering Mathematics,  -->
-<!--   * M.SC.A. in Applied Mathematics, -->
-<!--   * B.Eng. in Biomedical Engineering  -->
+**Education** 
+  * Ph.D. Engineering Mathematics, *Polytechnique Montréal*, Montréal, Canada, 2018 
+  * M.SC.A. in Applied Mathematics, *Polytechnique Montréal*, Montréal, Canada, 2014
+  * B.Eng. in Biomedical Engineering *Polytechnique Montréal*, Montréal, Canada, 2013
 
 Under construction
 
