@@ -13,6 +13,10 @@ author_profile: true
 
 **Michigan State University**
 
+* Instructor (2021-2022)
+  * *Introduction to computational modeling - CMSE201* (2 times)
+  * *Introduction to computational modeling - CMSE801* (1 time)
+
 **Polytechnique Montréal**
   
 * Instructor (2013-2020) 
