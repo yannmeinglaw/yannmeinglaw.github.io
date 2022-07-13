@@ -15,10 +15,10 @@ author_profile: true
 
 **Polytechnique Montréal**
   
-* 2013-2020: Instructor 
+* Instructor (2013-2020) 
   * *Scientific computing for engineers - MTH2210A/C* (21 times)
   * *Linear algebra for engineers - MTH1007* (1 time)        
-* 2012-2019: Teaching assistant 
+* Teaching assistant (2012-2019) 
   * *Scientific computing for engineers - MTH2210A/C* (21 times)
   * *Linear algebra for engineers - MTH1007* (1 time)
 
