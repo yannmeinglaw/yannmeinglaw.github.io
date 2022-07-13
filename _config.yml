@@ -86,9 +86,9 @@ author:
   location         : "East Lansing, Michigan, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  email            : "lawkamci@msu.edu"
+  researchgate     : "https://www.researchgate.net/profile/Yann-Meing-Law"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://ca.linkedin.com/in/yann-meing-law-8a137a109"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
