@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a [fixed-term assistant professor](https://cmse.msu.edu/directory/faculty/yann-meing-law/) in the Department of Computational Mathematics, Science and Engineering (CMSE) at Michigan State University.  
+I am currently a [fixed-term assistant professor](https://cmse.msu.edu/directory/faculty/yann-meing-law/) in the Department of Computational Mathematics, Science and Engineering (CMSE) at Michigan State University. I am a member of the research group of [Prof. Daniel Appelö](https://sites.google.com/msu.edu/danielappelo/about).
+
 Before joining MSU, I was a postdoctoral researcher at McGill University in the research group of [Prof. Jean-Christophe Nave](https://www.math.mcgill.ca/jcnave/) in the Department of Mathematics and Statistics.
 
 **Education** 
