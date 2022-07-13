@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 I am currently a [fixed-term assistant professor](https://cmse.msu.edu/directory/faculty/yann-meing-law/) in the Department of Computational Mathematics, Science and Engineering (CMSE) at Michigan State University.  
+Before joining MSU, I was a postdoctoral researcher at McGill University in the research group of [Prof. Jean-Christophe Nave](https://www.math.mcgill.ca/jcnave/) in the Department of Mathematics and Statistics.
 
 **Education** 
   * Ph.D. in Engineering Mathematics, Polytechnique Montréal, Montréal, Canada, 2018 
