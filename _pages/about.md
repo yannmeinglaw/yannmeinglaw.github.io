@@ -15,7 +15,7 @@ Before joining MSU, I was a postdoctoral researcher at McGill University in the 
 **Education** 
   * Ph.D. in Engineering Mathematics, Polytechnique Montréal, Montréal, Canada, 2018 
   * M.SC.A. in Applied Mathematics, Polytechnique Montréal, Montréal, Canada, 2014
-  * B.Eng. in Biomedical Engineering Polytechnique Montréal, Montréal, Canada, 2013
+  * B.Eng. in Biomedical Engineering, Polytechnique Montréal, Montréal, Canada, 2013
 
 This website is under construction.
 
