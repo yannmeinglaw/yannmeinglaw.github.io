@@ -19,7 +19,13 @@ Before joining MSU, I was a postdoctoral researcher at McGill University in the 
 
 This website is under construction.
 <!-- 
-**Research Interest** 
+**Research Interests** 
+
+My research interests focus mainly on numerical methods for PDES, particularly in computational electromagnetics. More precisely, I am interested in the following topics:
+  * Interface problems 
+  * Hermite methods
+  * p-curl problem
+
  -->
 
 
