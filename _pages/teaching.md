@@ -18,7 +18,10 @@ author_profile: true
   * *Introduction to Computational Modeling and Data Analysis - CMSE801* (1 time)
 
 **Polytechnique Montréal**
-  
+<!-- 
+* Leading instructor (2020)
+  * *Scientific Computing for Engineers - MTH2210A* (1 semester) 
+   -->
 * Instructor (2013-2020) 
   * *Scientific Computing for Engineers - MTH2210A/C* (21 times)
   * *Linear Algebra for Engineers - MTH1007* (1 time)        
