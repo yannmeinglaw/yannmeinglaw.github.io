@@ -7,7 +7,7 @@ author_profile: true
 
 **Talks** 
 
-* Speaker, Waves 2022, Palaisau, France (2022)
+* Speaker, Waves 2022, Palaiseau, France (2022)
 * Speaker, The 2nd North American High Order Methods Conference, San Diego, USA
 * Speaker, Midwest Numerical Analysis Day, Ann Arbor, USA
 * Invited speaker, The Second Joint SIAM/CAIMS Annual Meeting, online 
