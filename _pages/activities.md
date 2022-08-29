@@ -15,7 +15,7 @@ author_profile: true
 * Speaker, AMMCS-CAIMS Congress: Scientific Computing and Numerical Analysis, Waterloo, Canada
 * Speaker, Journées montréalaises de calcul scientifique, Montreal, Canada
 
-**Volunteering**
+**Outreach**
 
 * High-school summer camp of the Association mathématique du Québec (AMQ), summer 2019
 <!-- {% if site.talkmap_link == true %}
