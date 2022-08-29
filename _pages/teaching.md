@@ -19,8 +19,8 @@ author_profile: true
 
 **Polytechnique Montréal**
 
-* Leading instructor (2020)
-  * *Scientific Computing for Engineers - MTH2210A* (1 semester)
+* Leading instructor (Winter 2020)
+  * *Scientific Computing for Engineers - MTH2210A* 
   
 * Instructor (2013-2020) 
   * *Scientific Computing for Engineers - MTH2210A/C* (21 times)
