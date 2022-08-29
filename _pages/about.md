@@ -12,17 +12,22 @@ I am currently an [assistant professor-fixed-term](https://cmse.msu.edu/director
 
 Before joining MSU, I was a postdoctoral researcher at McGill University in the research group of [Prof. Jean-Christophe Nave](https://www.math.mcgill.ca/jcnave/) in the Department of Mathematics and Statistics.
 
+My research interests focus on numerical methods for PDEs, particularly in computational electromagnetics. I am mainly interested in the following topics:
+  * High-order methods for interface problems 
+  * Hermite methods
+  * _p_-curl problem
+
 **Education** 
   * Ph.D. in Engineering Mathematics, Polytechnique Montréal, Montréal, Canada, 2018 
   * M.SC.A. in Applied Mathematics, Polytechnique Montréal, Montréal, Canada, 2014
   * B.Eng. in Biomedical Engineering, Polytechnique Montréal, Montréal, Canada, 2013
 
-**Research Interests** 
+<!-- **Research Interests** 
 
 My research interests focus on numerical methods for PDEs, particularly in computational electromagnetics. I am mainly interested in the following topics:
   * High-order methods for interface problems 
   * Hermite methods
-  * _p_-curl problem
+  * _p_-curl problem -->
 
 
 
