@@ -22,7 +22,7 @@ This website is under construction.
 
 **Research Interests** 
 
-My research interests focus mainly on numerical methods for PDES, particularly in computational electromagnetics. More precisely, I am interested in the following topics:
+My research interests focus on numerical methods for PDES, particularly in computational electromagnetics. I am mainly interested in the following topics:
   * Interface problems 
   * Hermite methods
   * _p_-curl problem
