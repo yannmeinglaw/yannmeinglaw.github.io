@@ -17,7 +17,7 @@ author_profile: true
 
 **Outreach**
 
-* High-school [summer camp](https://www.amq.math.ca/camps/) of the [Association mathématique du Québec (AMQ)](https://www.amq.math.ca/), summer 2019
+* [High-school summer camp](https://www.amq.math.ca/camps/) of the [Association mathématique du Québec (AMQ)](https://www.amq.math.ca/), summer 2019
 <!-- {% if site.talkmap_link == true %}
 
 <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
