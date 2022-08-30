@@ -7,9 +7,9 @@ author_profile: true
 
 **Talks** 
 
-* Speaker, Waves 2022, Palaiseau, France (2022)
-* Speaker, The 2nd North American High Order Methods Conference, San Diego, USA
-* Speaker, Midwest Numerical Analysis Day, Ann Arbor, USA
+* Speaker, [Waves 2022]([https://sites.google.com/msu.edu/danielappelo/about](https://waves2022.apps.math.cnrs.fr/)), ENSTA-Paris (July 2022)
+* Speaker, [The 2nd North American High Order Methods Conference](https://sites.google.com/sdsu.edu/nahomcon2022/nahomcon-22), San Diego State University (July 2022)
+* Speaker, [Midwest Numerical Analysis Day](https://sites.lsa.umich.edu/mwnaday2022/), University of Michigan (May 2022)
 * Invited speaker, The Second Joint SIAM/CAIMS Annual Meeting, online 
 * Speaker, The 14th US National Congress on Computational Mechanics, Montreal, Canada
 * Speaker, AMMCS-CAIMS Congress: Scientific Computing and Numerical Analysis, Waterloo, Canada
