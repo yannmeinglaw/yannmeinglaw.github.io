@@ -6,6 +6,10 @@ author_profile: true
 ---
 {% include base_path %}
 
+{% for post in site.activities %}
+  {% include archive-single.html %}
+{% endfor %}
+
 **Talks** 
 
 * Speaker, [Waves 2022](https://waves2022.apps.math.cnrs.fr/), ENSTA-Paris (July 2022)
