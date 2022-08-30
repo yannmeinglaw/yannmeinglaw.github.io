@@ -13,7 +13,7 @@ author_profile: true
 * Invited speaker, [The Second Joint SIAM/CAIMS Annual Meeting](https://www.siam.org/conferences/cm/conference/an20), online (July 2020)
 * Speaker, [The 14th US National Congress on Computational Mechanics](http://14.usnccm.org/), Montreal (July 2017)
 * Speaker, [AMMCS-CAIMS Congress: Scientific Computing and Numerical Analysis](http://www.ammcs-caims2015.wlu.ca/), Wilfrid Laurier University (June 2015)
-* Speaker, [8th Montreal Scientific Computing Days](http://www.crm.umontreal.ca/Comp15/index_e.php), Centre de Recherche Mathématiques (May 2015)
+* Speaker, [The 8th Montreal Scientific Computing Days](http://www.crm.umontreal.ca/Comp15/index_e.php), Centre de Recherche Mathématiques (May 2015)
 
 **Outreach**
 
