@@ -14,8 +14,8 @@ author_profile: true
 **Michigan State University**
 
 * Instructor (2021-2022)
-  * *Computational Modeling and Data Analysis I - CMSE201* (2 times)
-  * *Introduction to Computational Modeling and Data Analysis - CMSE801* (1 time)
+  * *Computational Modeling and Data Analysis I - CMSE201* (3 times)
+  * *Introduction to Computational Modeling and Data Analysis - CMSE801* (2 times)
 
 **Polytechnique Montréal**
 
