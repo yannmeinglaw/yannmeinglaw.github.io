@@ -23,7 +23,7 @@ author_profile: true
   * *Scientific Computing for Engineers - MTH2210A* 
   
 * Instructor (2013-2020) 
-  * *Scientific Computing for Engineers - MTH2210A/C* (**21 times**)
+  * *Scientific Computing for Engineers - MTH2210A/C* (**25 times**)
   * *Linear Algebra for Engineers - MTH1007* (1 time)        
 * Teaching assistant (2012-2019) 
   * *Scientific Computing for Engineers - MTH2210A/C* (**21 times**)
