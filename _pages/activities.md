@@ -23,6 +23,8 @@ author_profile: true
 
 **Outreach**
 
+
+* Adviser for MSU student-led coding club [Technovation](http://technovation.cse.msu.edu/index.html) for 6-12th grade students in Michigan, fall 2022
 * [High-school summer camp](https://www.amq.math.ca/camps/) of the [Association mathématique du Québec (AMQ)](https://www.amq.math.ca/), summer 2019
 <!-- {% if site.talkmap_link == true %}
 
