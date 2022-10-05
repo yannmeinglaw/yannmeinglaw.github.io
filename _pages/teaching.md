@@ -19,7 +19,7 @@ author_profile: true
 
 **Polytechnique Montréal**
 
-* Leading instructor (Winter 2020)
+* Lead instructor (Winter 2020)
   * *Scientific Computing for Engineers - MTH2210A* 
   
 * Instructor (2013-2020) 
