@@ -27,4 +27,4 @@ author_profile: true
 
 **Preprint**
 
-1\. **Y.-M. Law** and D. Appelö, [The Hermite-Taylor correction function method for Maxwell's equations](https://arxiv.org/abs/2210.07134), *arXiv:2210.07134*, submitted, 2022
+1\. **Y.-M. Law** and D. Appelö, [The Hermite-Taylor correction function method for Maxwell's equations](https://arxiv.org/abs/2210.07134), *arXiv:2210.07134*, submitted, 2022.
