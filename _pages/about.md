@@ -22,7 +22,7 @@ My research interests focus on numerical methods for PDEs, particularly in compu
   * M.SC.A. in Applied Mathematics, Polytechnique Montréal, Montréal, Canada, 2014
   * B.Eng. in Biomedical Engineering, Polytechnique Montréal, Montréal, Canada, 2013
 
-I am also an Engineer, member of the Ordre des ingénieurs du Québec.
+I am also an engineer, member of the Ordre des ingénieurs du Québec.
 
 <!-- **Research Interests** 
 
