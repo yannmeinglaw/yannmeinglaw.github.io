@@ -27,4 +27,6 @@ author_profile: true
 
 **Preprint**
 
+2\. **Y.-M. Law**, D. Appelö and T. Hagstrom, [The Hermite-Taylor correction function method for embedded boundary and Maxwell's interface problems](https://arxiv.org/abs/2301.01752), *arXiv:2301.01752*, submitted, 2023.
+
 1\. **Y.-M. Law** and D. Appelö, [The Hermite-Taylor correction function method for Maxwell's equations](https://arxiv.org/abs/2210.07134), *arXiv:2210.07134*, submitted, 2022.
