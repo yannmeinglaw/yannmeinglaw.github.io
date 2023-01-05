@@ -25,7 +25,7 @@ author_profile: true
 
 1\. **Y.-M. Law**, D. Tageddine and S. Dufour, [3-D numerical modeling for the magnetization of superconductors using a local discontinuous Galerkin finite element method](https://ieeexplore.ieee.org/document/8698808), *IEEE Transaction on Magnetics*, 55 (8), 2019.
 
-**Preprint**
+**Preprints**
 
 2\. **Y.-M. Law**, D. Appelö and T. Hagstrom, [The Hermite-Taylor correction function method for embedded boundary and Maxwell's interface problems](https://arxiv.org/abs/2301.01752), *arXiv:2301.01752*, submitted, 2023.
 
