@@ -26,7 +26,7 @@ author_profile: true
 
 * Adviser for MSU student-led coding club [Spartan Girls Who Code](https://msu-cse-outreach.github.io/spartangwc/) for 6-12th grade students in Michigan, spring 2023
 * Adviser for MSU student-led coding club [Technovation](http://technovation.cse.msu.edu/index.html) for 6-12th grade students in Michigan, fall 2022
-* [High-school summer camp](https://www.amq.math.ca/camps/) of the [Association mathématique du Québec (AMQ)](https://www.amq.math.ca/), summer 2019
+* Volunteer for [High-school summer camp](https://www.amq.math.ca/camps/) of the [Association mathématique du Québec (AMQ)](https://www.amq.math.ca/), summer 2019
 <!-- {% if site.talkmap_link == true %}
 
 <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
