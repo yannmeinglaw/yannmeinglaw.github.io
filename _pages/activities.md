@@ -14,6 +14,7 @@ author_profile: true
 
 * [CRM Applied Mathematics Seminars](https://dms.umontreal.ca/~mathapp/abs2223/YannLaw.html), McGill University (May 2023)
 * [SIAM CSE 2023](https://www.siam.org/conferences/cm/conference/cse23), Amsterdam (February 2023)
+* [Applied Mathematics Seminar/Math colloquium](https://kaman.uark.edu/appliedmathseminar/), University of Arkansas (February 2023)
 * [GLSIAM 2022](http://hli.wayne.edu/conferences/glsiam2022/main.html), Wayne State University (September 2022)
 * [Waves 2022](https://waves2022.apps.math.cnrs.fr/), ENSTA-Paris (July 2022)
 * [The 2nd North American High Order Methods Conference](https://sites.google.com/sdsu.edu/nahomcon2022/nahomcon-22), San Diego State University (July 2022)
