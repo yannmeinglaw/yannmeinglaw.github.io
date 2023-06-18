@@ -12,6 +12,7 @@ author_profile: true
 
 **Talks** 
 
+* [CRM Applied Mathematics Seminars](https://dms.umontreal.ca/~mathapp/abs2223/YannLaw.html), McGill University (May 2023)
 * [SIAM CSE 2023](https://www.siam.org/conferences/cm/conference/cse23), Amsterdam (February 2023)
 * [GLSIAM 2022](http://hli.wayne.edu/conferences/glsiam2022/main.html), Wayne State University (September 2022)
 * [Waves 2022](https://waves2022.apps.math.cnrs.fr/), ENSTA-Paris (July 2022)
