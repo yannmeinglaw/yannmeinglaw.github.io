@@ -16,6 +16,7 @@ My research interests focus on numerical methods for PDEs, particularly in compu
   * High-order methods for embedded boundary and interface problems 
   * Hermite methods
   * _p_-curl problem
+  * Nonlinear dispersive media
 
 **Education** 
   * Ph.D. in Engineering Mathematics, Polytechnique Montréal, Montréal, Canada, 2018 
