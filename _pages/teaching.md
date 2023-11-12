@@ -11,6 +11,13 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+**California State University Long Beach**
+
+* Instructor
+  * *Advanced Mathematical Modeling - MATH579* 
+  * *Mathematical Modeling - MATH479* 
+  * *Introduction to Numerical Analysis - MATH323* (1 time)
+    
 **Michigan State University**
 
 * Instructor (2021-2022)
