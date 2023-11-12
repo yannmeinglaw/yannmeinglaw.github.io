@@ -12,6 +12,7 @@ author_profile: true
 
 **Talks** 
 
+* [The Second CSU Mathematical Conference](https://www.csub.edu/CSU_MSRC_2023), California State University Bakerfields (November 2023)
 * [CRM Applied Mathematics Seminars](https://dms.umontreal.ca/~mathapp/abs2223/YannLaw.html), McGill University (May 2023)
 * [SIAM CSE 2023](https://www.siam.org/conferences/cm/conference/cse23), Amsterdam (February 2023)
 * [Applied Mathematics Seminar/Math colloquium](https://kaman.uark.edu/appliedmathseminar/), University of Arkansas (February 2023)
