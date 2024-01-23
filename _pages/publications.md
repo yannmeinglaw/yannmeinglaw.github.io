@@ -30,7 +30,7 @@ author_profile: true
 
 **Preprint**
 
-2\. D. Appelö, T. Hagstrom and Y.-M. Law, Energy-conserving Hermite methods for Maxwell's equations, submitted, 2024.
+2\. D. Appelö, T. Hagstrom and Y.-M. Law, [Energy-conserving Hermite methods for Maxwell's equations](https://arxiv.org/abs/2401.12043), *arXiv:2401.12043*, submitted, 2024.
 
 1\. Y.-M. Law, D. Appelö and T. Hagstrom, [The Hermite-Taylor correction function method for embedded boundary and Maxwell's interface problems](https://arxiv.org/abs/2301.01752), *arXiv:2301.01752*, submitted, 2023.
 
