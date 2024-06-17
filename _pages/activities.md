@@ -12,6 +12,7 @@ author_profile: true
 
 **Talks** 
 
+* [The 3rd North American High Order Methods Conference](https://math.dartmouth.edu/~nahomcon2024/), Dartmouth College (June 2024)
 * [The Second CSU Mathematical Conference](https://www.csub.edu/CSU_MSRC_2023), California State University Bakerfields (November 2023)
 * [CRM Applied Mathematics Seminars](https://dms.umontreal.ca/~mathapp/abs2223/YannLaw.html), McGill University (May 2023)
 * [SIAM CSE 2023](https://www.siam.org/conferences/cm/conference/cse23), Amsterdam (February 2023)
