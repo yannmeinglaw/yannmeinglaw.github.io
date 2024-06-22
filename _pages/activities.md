@@ -27,7 +27,7 @@ author_profile: true
 * [The 8th Montreal Scientific Computing Days](http://www.crm.umontreal.ca/Comp15/index_e.php), Centre de Recherche Mathématiques (May 2015)
 
 **Outreach**
-
+* Mentor for CSULB first-generation students mentoring program [GenExcel](https://www.csulb.edu/undergraduate-advising/university-center-for-undergraduate-advising-ucua/genexcel), spring 2024
 * Adviser for MSU student-led coding club [Spartan Girls Who Code](https://msu-cse-outreach.github.io/spartangwc/) for 6-12th grade students in Michigan, spring 2023
 * Adviser for MSU student-led coding club [Technovation](http://technovation.cse.msu.edu/index.html) for 6-12th grade students in Michigan, fall 2022
 * Volunteer for [High-school summer camp](https://www.amq.math.ca/camps/) of the [Association mathématique du Québec (AMQ)](https://www.amq.math.ca/), summer 2019
