@@ -18,7 +18,7 @@ author_profile: true
 * [SIAM CSE 2023](https://www.siam.org/conferences/cm/conference/cse23), Amsterdam (February 2023)
 * [Applied Mathematics Seminar/Math colloquium](https://kaman.uark.edu/appliedmathseminar/), University of Arkansas (February 2023)
 * [GLSIAM 2022](http://hli.wayne.edu/conferences/glsiam2022/main.html), Wayne State University (September 2022)
-* [Waves 2022](https://waves2022.apps.math.cnrs.fr/), ENSTA-Paris (July 2022)
+* [WAVES 2022](https://waves2022.apps.math.cnrs.fr/), ENSTA-Paris (July 2022)
 * [The 2nd North American High Order Methods Conference](https://sites.google.com/sdsu.edu/nahomcon2022/nahomcon-22), San Diego State University (July 2022)
 * [Midwest Numerical Analysis Day](https://sites.lsa.umich.edu/mwnaday2022/), University of Michigan (May 2022)
 * [The Second Joint SIAM/CAIMS Annual Meeting](https://www.siam.org/conferences/cm/conference/an20), online (July 2020)
