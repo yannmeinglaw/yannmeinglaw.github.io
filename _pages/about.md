@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an assistant professor in the [Department of Mathematics and Statistics](https://www.csulb.edu/mathematics-statistics) at California State University Long Beach.
+I am currently an assistant professor in the [Department of Mathematics and Industrial Engineering](https://www.polymtl.ca/magi/) at Polytechnique Montreal.
 
-Before joining CSULB, I was an assistant professor-fixed-term in the Department of Computational Mathematics, Science and Engineering (CMSE) at Michigan State University and a member of the research group of [Prof. Daniel Appelö](https://sites.google.com/msu.edu/danielappelo/about).
+Before joining Polytechnique Montreal, I was an assistant professor in the Department of Mathematics and Statistics at California State University Long Beach. 
 
-Prior to that, I was a postdoctoral researcher at McGill University in the research group of [Prof. Jean-Christophe Nave](https://www.math.mcgill.ca/jcnave/) in the Department of Mathematics and Statistics.
+Prior to that, I was an assistant professor-fixed-term in the Department of Computational Mathematics, Science and Engineering (CMSE) at Michigan State University and a member of the research group of [Prof. Daniel Appelö](https://sites.google.com/msu.edu/danielappelo/about). I was also a postdoctoral researcher at McGill University in the research group of [Prof. Jean-Christophe Nave](https://www.math.mcgill.ca/jcnave/) in the Department of Mathematics and Statistics.
 
 My research interests focus on numerical methods for PDEs, particularly in computational electromagnetics. I am mainly interested in the following topics:
   * High-order methods for embedded boundary and interface problems 
