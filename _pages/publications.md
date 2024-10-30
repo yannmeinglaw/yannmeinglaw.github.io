@@ -14,7 +14,7 @@ author_profile: true
 <!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
-
+7\. D. Appelö, T. Hagstrom and Y.-M. Law, [Energy-conserving Hermite methods for Maxwell's equations](https://arxiv.org/abs/2401.12043), *arXiv:2401.12043*, accepted in *Communications on Applied Mathematics and Computation*, 2024.
 
 6\. Y.-M. Law and D. Appelö, [The Hermite-Taylor correction function method for Maxwell's equations](https://link.springer.com/article/10.1007/s42967-023-00287-5), *Communications on Applied Mathematics and Computation*, 2023.
 
@@ -29,8 +29,6 @@ author_profile: true
 1\. Y.-M. Law, D. Tageddine and S. Dufour, [3-D numerical modeling for the magnetization of superconductors using a local discontinuous Galerkin finite element method](https://ieeexplore.ieee.org/document/8698808), *IEEE Transaction on Magnetics*, 55 (8), 2019.
 
 **Preprint**
-
-2\. D. Appelö, T. Hagstrom and Y.-M. Law, [Energy-conserving Hermite methods for Maxwell's equations](https://arxiv.org/abs/2401.12043), *arXiv:2401.12043*, submitted, 2024.
 
 1\. Y.-M. Law, D. Appelö and T. Hagstrom, [The Hermite-Taylor correction function method for embedded boundary and Maxwell's interface problems](https://arxiv.org/abs/2301.01752), *arXiv:2301.01752*, submitted, 2023.
 
