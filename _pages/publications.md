@@ -14,9 +14,9 @@ author_profile: true
 <!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
-7\. D. Appelö, T. Hagstrom and Y.-M. Law, [Energy-conserving Hermite methods for Maxwell's equations](https://arxiv.org/abs/2401.12043), *arXiv:2401.12043*, accepted in *Communications on Applied Mathematics and Computation*, 2024.
+7\. D. Appelö, T. Hagstrom and Y.-M. Law, [Energy-conserving Hermite methods for Maxwell's equations](https://link.springer.com/article/10.1007/s42967-024-00469-9), *Communications on Applied Mathematics and Computation*, 2025.
 
-6\. Y.-M. Law and D. Appelö, [The Hermite-Taylor correction function method for Maxwell's equations](https://link.springer.com/article/10.1007/s42967-023-00287-5), *Communications on Applied Mathematics and Computation*, 2023.
+6\. Y.-M. Law and D. Appelö, [The Hermite-Taylor correction function method for Maxwell's equations](https://link.springer.com/article/10.1007/s42967-023-00287-5), *Communications on Applied Mathematics and Computation*, 7, 347-371, 2025.
 
 5\. Y.-M. Law and J.-C. Nave, [High-order FDTD schemes for Maxwell’s interface problems with discontinuous coefficients and complex interfaces based on the correction function method](https://link.springer.com/article/10.1007/s10915-022-01797-9), *Journal of Scientific Computing*, 91 (26), 2022.
 
