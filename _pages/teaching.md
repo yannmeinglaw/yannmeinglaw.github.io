@@ -14,7 +14,7 @@ author_profile: true
 **Polytechnique Montréal**
   
 * Instructor
-  * *Differential Equations - MTH1115*
+  * *Differential Equations - MTH1115* (2 times)
   * *Scientific Computing for Engineers - MTH2210A/C* (25 times)
   * *Linear Algebra for Engineers - MTH1007* (1 time)
 
