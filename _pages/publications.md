@@ -30,5 +30,7 @@ author_profile: true
 
 **Preprint**
 
-1\. Y.-M. Law, D. Appelö and T. Hagstrom, [The Hermite-Taylor correction function method for embedded boundary and Maxwell's interface problems](https://arxiv.org/abs/2301.01752), *arXiv:2301.01752*, submitted, 2023.
+2\. Y.-M. Law, Z. Peng, D. Appelö and T. Hagstrom, [A p-adaptive Hermite method for nonlinear dispersive Maxwell's equations](https://arxiv.org/abs/2504.09269), *arXiv:2504.09269*, submitted, 2025.
+
+1\. Y.-M. Law, D. Appelö and T. Hagstrom, [The Hermite-Taylor correction function method for embedded boundary and Maxwell's interface problems](https://arxiv.org/abs/2301.01752), *arXiv:2301.01752*, submitted, 2024.
 
