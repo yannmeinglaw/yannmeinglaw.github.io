@@ -27,6 +27,12 @@ My research interests focus on numerical methods for PDEs, particularly in compu
 
 I am also an engineer, member of the [Ordre des ingénieurs du Québec](https://www.oiq.qc.ca/en/).
 
+
+
+**Graduate Student Opportunities**
+
+I am looking for motivated students interested in developing numerical methods for simulating wave propagation in complex heterogeneous media, as part of a research-based Master’s or Ph.D. program. If you are interested, please view the full announcement [here](https://www.polymtl.ca/expertises/en/development-numerical-methods-simulating-wave-propagation-complex-heterogeneous-media-law-yann-meing).
+
 <!-- **Research Interests** 
 
 My research interests focus on numerical methods for PDEs, particularly in computational electromagnetics. I am mainly interested in the following topics:
