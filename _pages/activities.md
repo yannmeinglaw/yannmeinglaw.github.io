@@ -11,6 +11,7 @@ author_profile: true
 {% endfor %}
 
 **Talks** 
+* [ICOSAHOM 2025](https://icosahom2025.org/), McGill University (July 2025)
 * [SIAM CSE 2025](https://www.siam.org/conferences/cm/conference/cse25), Fort Worth (March 2025)
 * [WAVES 2024](https://waves2024.mps.mpg.de/), Berlin (July 2024)
 * [The 3rd North American High Order Methods Conference](https://math.dartmouth.edu/~nahomcon2024/), Dartmouth College (June 2024)
