@@ -11,6 +11,7 @@ author_profile: true
 {% endfor %}
 
 **Talks** 
+* [The Third Joint SIAM/CAIMS Annual Meeting](https://www.siam.org/conferences-events/past-event-archive/an25/program/program-abstracts/), Montreal (July 2025)
 * [ICOSAHOM 2025](https://icosahom2025.org/), McGill University (July 2025)
 * [SIAM CSE 2025](https://www.siam.org/conferences/cm/conference/cse25), Fort Worth (March 2025)
 * [WAVES 2024](https://waves2024.mps.mpg.de/), Berlin (July 2024)
