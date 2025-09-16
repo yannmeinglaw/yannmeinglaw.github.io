@@ -34,5 +34,6 @@ author_profile: true
 **Preprint**
 
 1\. Y.-M. Law, Z. Peng, D. Appelö and T. Hagstrom, [A p-adaptive Hermite method for nonlinear dispersive Maxwell's equations](https://arxiv.org/abs/2504.09269), *arXiv:2504.09269*, submitted, 2025.
+2\. Y.-M. Law, [The high-order Hermite discrete correction function method for surface-driven electromagnetic problems](https://arxiv.org/abs/2509.09857), *arXiv:2509.09857*, submitted, 2025.
 
 
