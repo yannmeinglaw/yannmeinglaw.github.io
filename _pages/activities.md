@@ -11,6 +11,7 @@ author_profile: true
 {% endfor %}
 
 **Talks** 
+* [The Fourth Conference of the CACSE](https://www.cacse-accsg.ca/previous-events), Banff (January 2026)
 * [The Third Joint SIAM/CAIMS Annual Meeting](https://www.siam.org/conferences-events/past-event-archive/an25/program/program-abstracts/), Montreal (July 2025)
 * [ICOSAHOM 2025](https://icosahom2025.org/), McGill University (July 2025)
 * [SIAM CSE 2025](https://www.siam.org/conferences/cm/conference/cse25), Fort Worth (March 2025)
