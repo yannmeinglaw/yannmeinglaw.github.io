@@ -15,6 +15,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+9\. Y.-M. Law, [The high-order Hermite discrete correction function method for surface-driven electromagnetic problems](https://www.sciencedirect.com/science/article/pii/S0021999126004110), *Journal of Computational Physics*, 563, 115058, 2026.
+
 8\. Y.-M. Law, D. Appelö and T. Hagstrom, [The Hermite-Taylor correction function method for embedded boundary and Maxwell's interface problems](https://www.sciencedirect.com/science/article/pii/S0021999125003948?via%3Dihub), *Journal of Computational Physics*, 537, 114111, 2025.
 
 7\. D. Appelö, T. Hagstrom and Y.-M. Law, [Energy-conserving Hermite methods for Maxwell's equations](https://link.springer.com/article/10.1007/s42967-024-00469-9), *Communications on Applied Mathematics and Computation*, 2025.
@@ -33,8 +35,7 @@ author_profile: true
 
 **Preprint**
 
-2\. Y.-M. Law, Z. Peng, D. Appelö and T. Hagstrom, [A p-adaptive Hermite method for nonlinear dispersive Maxwell's equations](https://arxiv.org/abs/2504.09269), *arXiv:2504.09269*, submitted, 2025.
+1\. Y.-M. Law, Z. Peng, D. Appelö and T. Hagstrom, [A p-adaptive Hermite method for nonlinear dispersive Maxwell's equations](https://arxiv.org/abs/2504.09269), *arXiv:2504.09269*, submitted, 2025.
 
-1\. Y.-M. Law, [The high-order Hermite discrete correction function method for surface-driven electromagnetic problems](https://arxiv.org/abs/2509.09857), *arXiv:2509.09857*, submitted, 2025.
 
 
