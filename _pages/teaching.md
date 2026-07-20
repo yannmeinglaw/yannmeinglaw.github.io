@@ -13,7 +13,8 @@ author_profile: true
 
 **Polytechnique Montréal**
   
-* Instructor 
+* Instructor
+  * *Numerical Simulation of Wave Propagation - MTH8808*
   * *Differential Equations - MTH1115* <!-- (2 times) -->
   * *Scientific Computing for Engineers - MTH2210A/C* <!-- (25 times) -->
   * *Linear Algebra for Engineers - MTH1007* <!-- (1 time) -->
